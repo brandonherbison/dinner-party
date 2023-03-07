@@ -1,0 +1,15 @@
+/Users/brandonherbison/workspace/csharp/dinner-party/bin/Debug/net7.0/dinner-party
+/Users/brandonherbison/workspace/csharp/dinner-party/bin/Debug/net7.0/dinner-party.deps.json
+/Users/brandonherbison/workspace/csharp/dinner-party/bin/Debug/net7.0/dinner-party.runtimeconfig.json
+/Users/brandonherbison/workspace/csharp/dinner-party/bin/Debug/net7.0/dinner-party.dll
+/Users/brandonherbison/workspace/csharp/dinner-party/bin/Debug/net7.0/dinner-party.pdb
+/Users/brandonherbison/workspace/csharp/dinner-party/obj/Debug/net7.0/dinner-party.csproj.AssemblyReference.cache
+/Users/brandonherbison/workspace/csharp/dinner-party/obj/Debug/net7.0/dinner-party.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonherbison/workspace/csharp/dinner-party/obj/Debug/net7.0/dinner-party.AssemblyInfoInputs.cache
+/Users/brandonherbison/workspace/csharp/dinner-party/obj/Debug/net7.0/dinner-party.AssemblyInfo.cs
+/Users/brandonherbison/workspace/csharp/dinner-party/obj/Debug/net7.0/dinner-party.csproj.CoreCompileInputs.cache
+/Users/brandonherbison/workspace/csharp/dinner-party/obj/Debug/net7.0/dinner-party.dll
+/Users/brandonherbison/workspace/csharp/dinner-party/obj/Debug/net7.0/refint/dinner-party.dll
+/Users/brandonherbison/workspace/csharp/dinner-party/obj/Debug/net7.0/dinner-party.pdb
+/Users/brandonherbison/workspace/csharp/dinner-party/obj/Debug/net7.0/dinner-party.genruntimeconfig.cache
+/Users/brandonherbison/workspace/csharp/dinner-party/obj/Debug/net7.0/ref/dinner-party.dll
